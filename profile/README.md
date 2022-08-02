@@ -2,24 +2,19 @@
 
 weltome to a collection of the internet greatest hits
 
-for a decade now we’ve been on an adventure discovering the treasures of the internet, 
-
+for a decade now we’ve been on an adventure discovering the treasure's of the internet,
 the power it holds, and it’s capabilities to bring forth the freedom that all humans seek
 
 in the right hands it can create tremendous opportunities and drive change for generations to come 
 
-It can help us connect the whole of Africa, achieve economic freedom, and with this realisation we decided to build backpack, a modern day developer swiss knife, one that would help them build solutions to the problems we face as humans 
+It can help us connect the whole of Africa, achieve economic freedom, and with thisrealisation we decided to build backpack, 
+a modern day developer swiss knife, one that would help them build solutions to the problems we face as humans 
 
-A collection of the worlds greatest his bundled into a low code solution, providing the flexibility needed to achieve our mission
+A collection of the worlds greatest hits bundled into a low code solution, 
+providing the flexibility needed to achieve our mission
 
 Freedom, and our purpose
-
-Liberation, 
-
-from the shackles that hold us back mentally, physically and spiritually  
-
-connecting the next billion
-
+Liberation, from the shackles that hold us back mentally, physically and spiritually  
 
 <!--
 
