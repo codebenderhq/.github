@@ -1,13 +1,12 @@
 ## Hi there 👋
 
-weltome to a collection of the internet greatest hits
+Welcome to a collection of some of the most notable and impactful moments in internet history.
 
-for a decade now we’ve been on an adventure discovering the treasure's of the internet,
-the power it holds, and it’s capabilities to bring forth the freedom that all humans seek 
-in the right hands it can create tremendous opportunities and drive change for generations to come 
+Over the past decade, the internet has served as a platform for countless individuals and organizations to express themselves, connect with others, and effect positive change. Its potential for facilitating freedom and liberation is truly remarkable, with opportunities ranging from education and innovation to social activism and political reform.
 
-Freedom, and our purpose
-Liberation, from the shackles that hold us back mentally, physically and spiritually  
+However, while the internet has much to offer, it is not without its challenges. Misinformation, cyberbullying, addiction, and privacy concerns are just some of the many issues that arise in the online world. It is important that we all take responsibility for our online actions and strive to use the internet in a mindful and responsible manner.
+
+Despite these challenges, the internet remains a powerful tool that can be harnessed for good. By leveraging the opportunities it provides, we can work towards a more equitable, just, and connected world, where freedom and liberation are accessible to all.
 
 <!--
 
